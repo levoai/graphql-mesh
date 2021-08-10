@@ -1,5 +1,15 @@
 # @graphql-mesh/merger-federation
 
+## 0.9.5
+
+### Patch Changes
+
+- cb70939cc: fix(transforms): handle non nullable input variables correctly
+- Updated dependencies [94606e7b9]
+  - @graphql-mesh/types@0.44.3
+  - @graphql-mesh/utils@0.13.4
+  - @graphql-mesh/store@0.1.4
+
 ## 0.9.4
 
 ### Patch Changes

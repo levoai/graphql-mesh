@@ -1,5 +1,11 @@
 # @graphql-mesh/types
 
+## 0.44.3
+
+### Patch Changes
+
+- 94606e7b9: Enable flags for regular expressions in rename transform
+
 ## 0.44.2
 
 ### Patch Changes

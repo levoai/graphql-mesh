@@ -1,5 +1,14 @@
 # @graphql-mesh/runtime
 
+## 0.18.4
+
+### Patch Changes
+
+- cb70939cc: fix(transforms): handle non nullable input variables correctly
+- Updated dependencies [94606e7b9]
+  - @graphql-mesh/types@0.44.3
+  - @graphql-mesh/utils@0.13.4
+
 ## 0.18.3
 
 ### Patch Changes
